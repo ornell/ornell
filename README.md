@@ -82,9 +82,9 @@ something kubernetes was never intended for.
     <img alt="unraid" src="https://img.shields.io/badge/-unraid-1a73e8?style=flat-square&logo=unraid&logoColor=white" />
     <img alt="veeam" src="https://img.shields.io/badge/-veeam-13aa52?style=flat-square&logo=veeam&logoColor=white" />
     <img alt="visualstudiocode" src="https://img.shields.io/badge/-vscode-b858ff?style=flat-square&logo=dovisualstudiocodetnet&logoColor=white" />
-    <img alt="vmware" src="https://img.shields.io/badge/-VmwareESXI-13aa52?style=flat-square&logo=vmware&logoColor=white" />
-    <img alt="vmware" src="https://img.shields.io/badge/-VmwareVcenter-13aa52?style=flat-square&logo=vmware&logoColor=white" />
-    <img alt="vmware" src="https://img.shields.io/badge/-VmwareHorizon-13aa52?style=flat-square&logo=vmware&logoColor=white" />
+    <img alt="vmware" src="https://img.shields.io/badge/-ESXI-13aa52?style=flat-square&logo=vmware&logoColor=white" />
+    <img alt="vmware" src="https://img.shields.io/badge/-vCenter-13aa52?style=flat-square&logo=vmware&logoColor=white" />
+    <img alt="vmware" src="https://img.shields.io/badge/-Horizon-13aa52?style=flat-square&logo=vmware&logoColor=white" />
     <img alt="webmin" src="https://img.shields.io/badge/-webmin-000000?style=flat-square&logo=webmin&logoColor=white" />
     <img alt="wordpress" src="https://img.shields.io/badge/-wordpress-b858ff?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
