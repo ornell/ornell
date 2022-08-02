@@ -90,7 +90,7 @@ something kubernetes was never intended for.
 </p>
 
 <h4>📫 How to reach me:</h4>
-<p>Telegram: ornell89</p>
+<p>Telegram: ornell</p>
 <p>Twitter: ornell</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ornell&show_icons=true&theme=gotham" alt="ornell" />
